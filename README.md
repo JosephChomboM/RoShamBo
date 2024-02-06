@@ -1,0 +1,1 @@
+RoShamBo is a simple and fun implementation of the classic rock, paper, scissors game in Python. This console-based game allows you to face off against the computer in a series of rounds where you must choose between rock, paper, or scissors, and the computer will make its choice randomly. Find out who the winner of each round is based on the classic rules of the game.
